@@ -1,0 +1,10 @@
+*{
+    color:brown;
+}
+
+h2, p{
+    color:red;
+}
+p.school{
+    color:aqua;
+}
