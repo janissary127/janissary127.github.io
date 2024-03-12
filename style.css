@@ -11,9 +11,11 @@
     color: #000000;
     text-decoration: none;
 }
-.nav_title{
+
+.nav_title {
     font-size: 30px;
 }
+
 .nav_contents {
     background-color: #f5f5dc;
     height: 100px;
@@ -40,7 +42,7 @@ ul.nav_btn>li {
     margin: 15px;
 }
 
-.nav::after{
+.nav::after {
     content: "";
     display: block;
     clear: both;
